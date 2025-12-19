@@ -65,4 +65,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Depth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+## Sorting
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
