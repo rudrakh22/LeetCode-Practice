@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
@@ -86,5 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+## Binary Search
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
