@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [2211-count-collisions-on-a-road](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
