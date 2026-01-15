@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Binary Search
 |  |
 | ------- |
