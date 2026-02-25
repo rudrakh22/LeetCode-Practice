@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3583-count-special-triplets](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
