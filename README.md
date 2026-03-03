@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
