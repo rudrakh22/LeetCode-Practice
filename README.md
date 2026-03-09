@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
