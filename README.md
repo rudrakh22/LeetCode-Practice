@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
