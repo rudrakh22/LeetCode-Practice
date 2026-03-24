@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2906-construct-product-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2906-construct-product-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2906-construct-product-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2906-construct-product-matrix) |
 ## Tree
