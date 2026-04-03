@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3583-count-special-triplets) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2092-find-all-people-with-secret) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
