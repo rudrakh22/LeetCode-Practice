@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0874-walking-robot-simulation](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/rudrakh22/LeetCode-Practice/tree/master/0874-walking-robot-simulation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3583-count-special-triplets) |
 ## Counting
