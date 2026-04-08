@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/rudrakh22/LeetCode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3583-count-special-triplets) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/rudrakh22/LeetCode-Practice/tree/master/1622-fancy-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudrakh22/LeetCode-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
